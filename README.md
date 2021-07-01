@@ -1,1 +1,1 @@
-# Master-Thesis
+Repository used for the implementation of the experiments in the Master Thesis named: "Multi-center, multi-vendor automated segmentation of left ventricular anatomy in contrast-enhanced MRI". Further details of the work and code excuted to obtain the results are explained in the written report.  
