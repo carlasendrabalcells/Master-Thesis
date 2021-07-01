@@ -44,3 +44,6 @@ Repository used for the implementation of the experiments in the Master Thesis n
     
     
 The implementation of the CycleGAN model is not in the repository since the original code was used in this case. It can be found here: [Link to CycleGAN GitHub repository] (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
+![figure13](https://user-images.githubusercontent.com/55059507/124180802-030c3700-dab5-11eb-9755-658753f2fd80.PNG)
+
